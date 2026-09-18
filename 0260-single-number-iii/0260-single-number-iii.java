@@ -1,22 +1,27 @@
 class Solution {
+
     public int[] singleNumber(int[] nums) {
-        HashMap<Integer, Integer> frequencyMap = new HashMap<>();
+
+        int xor = 0;
+
         for (int num : nums) {
-            frequencyMap.put(num, frequencyMap.getOrDefault(num, 0) + 1);
+            xor = xor ^ num;
         }
-        int count = 0;
-        for (int freq : frequencyMap.values()) {
-            if (freq == 1) {
-                count++;
+
+        int diff = xor & -xor;
+
+        int num1 = 0;
+        int num2 = 0;
+
+        for (int num : nums) {
+
+            if ((num & diff) != 0) {
+                num1 = num1 ^ num;
+            } else {
+                num2 = num2 ^ num;
             }
         }
-        int[] result = new int[count];
-        int index = 0;
-        for (Map.Entry<Integer, Integer> entry : frequencyMap.entrySet()) {
-            if (entry.getValue() == 1) {
-                result[index++] = entry.getKey();
-            }
-        }
-        return result;
+
+        return new int[]{num1, num2};
     }
 }
