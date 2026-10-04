@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0709-to-lower-case) |
 | [0917-reverse-only-letters](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0917-reverse-only-letters) |
+| [2390-removing-stars-from-a-string](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Queue
 |  |
 | ------- |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [2390-removing-stars-from-a-string](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -233,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
