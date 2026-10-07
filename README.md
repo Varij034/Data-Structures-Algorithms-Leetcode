@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0709-to-lower-case) |
 | [0917-reverse-only-letters](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0917-reverse-only-letters) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Queue
 |  |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
