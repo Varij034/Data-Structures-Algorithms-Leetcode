@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0704-binary-search) |
+| [0977-squares-of-a-sorted-array](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/1051-height-checker) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Math
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0917-reverse-only-letters](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0917-reverse-only-letters) |
+| [0977-squares-of-a-sorted-array](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
