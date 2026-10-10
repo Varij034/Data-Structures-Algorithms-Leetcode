@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0125-valid-palindrome) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -255,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/1051-height-checker) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
