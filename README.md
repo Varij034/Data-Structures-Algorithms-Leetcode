@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0073-set-matrix-zeroes](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0217-contains-duplicate) |
@@ -267,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
