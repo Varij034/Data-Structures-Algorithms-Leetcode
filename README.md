@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0402-remove-k-digits) |
 | [0434-number-of-segments-in-a-string](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -248,18 +249,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0045-jump-game-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0402-remove-k-digits) |
 | [0680-valid-palindrome-ii](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0402-remove-k-digits) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0402-remove-k-digits) |
 ## Sliding Window
 |  |
 | ------- |
