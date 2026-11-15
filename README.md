@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0647-palindromic-substrings](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0917-reverse-only-letters) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0647-palindromic-substrings](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0709-to-lower-case) |
 | [0844-backspace-string-compare](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0844-backspace-string-compare) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0392-is-subsequence) |
+| [0647-palindromic-substrings](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0647-palindromic-substrings) |
 ## Pigeonhole Principle
 |  |
 | ------- |
