@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -307,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0073-set-matrix-zeroes) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
