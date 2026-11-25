@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [2295-replace-elements-in-an-array](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/2295-replace-elements-in-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [2295-replace-elements-in-an-array](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/2295-replace-elements-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0844-backspace-string-compare) |
+| [2295-replace-elements-in-an-array](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/2295-replace-elements-in-an-array) |
 | [2390-removing-stars-from-a-string](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Counting Sort
 |  |
