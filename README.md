@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0268-missing-number) |
+| [3360-stone-removal-game](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/3360-stone-removal-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/0844-backspace-string-compare) |
 | [2295-replace-elements-in-an-array](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/2295-replace-elements-in-an-array) |
 | [2390-removing-stars-from-a-string](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3360-stone-removal-game](https://github.com/Varij034/Data-Structures-Algorithms-Leetcode/tree/master/3360-stone-removal-game) |
 ## Counting Sort
 |  |
 | ------- |
